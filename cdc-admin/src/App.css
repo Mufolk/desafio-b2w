@@ -1,0 +1,16 @@
+.centralizado {
+    padding: 15rem;
+}
+
+.sem-borda {
+  border: 0px;
+}
+
+.com-margem {
+  margin: 1rem;
+}
+
+.com-margem-pequena {
+  margin: 0.05rem;
+  padding: 0;
+}
